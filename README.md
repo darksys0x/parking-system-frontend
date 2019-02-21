@@ -3,8 +3,8 @@
 technologies : React and APIs from parking-system-backend 
 
 
-attion : you have do refresh p
-of page when editng or delete or createing ..
+attion : you have to refresh 
+the page when you edite or delete or createing ..
 
 
 
